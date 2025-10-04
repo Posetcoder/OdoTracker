@@ -4,10 +4,8 @@ OdoTracker is a Flutter Android app for Australian taxpayers to keep an ATO-comp
 - Trip recording (date, odometer, km, purpose, business/private)
 - Odometer records (yearly)
 - Expense records (with receipt images)
-- Business use % calculator
+- Business use graphs
 - Export reports (CSV/PDF, pie chart)
-- Material Design, dark/light mode
-- Offline-first (SQLite)
 - Basic user guide
 
 ## Getting Started
@@ -25,6 +23,3 @@ OdoTracker is a Flutter Android app for Australian taxpayers to keep an ATO-comp
 - 12-week logbook period
 - Odometer readings at start/end of each year
 - Clear separation of business vs private km
-
-## Support
-For help, refer to the in-app user guide.
